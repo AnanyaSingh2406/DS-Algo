@@ -25,5 +25,5 @@ The problems are categorized by **Topic** and further divided by **Difficulty**:
 
 ## 🔗 Resources
 - [Coding Ninjas Course]
-- [LeetCode Profile]([YourLinkHere](https://leetcode.com/u/AnanyaSingh2406/))
+- [LeetCode Profile](https://leetcode.com/u/AnanyaSingh2406/))
 - [GFG Practice](YourLinkHere)
